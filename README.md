@@ -14,9 +14,13 @@
 
 내부의 리소스는 바꾸지 않을 것이기 때문에, 현재 없는 가게들고 많고 가격도 매우 다르다.
 
+[이전코드](https://github.com/whdauddbs/2015_catSikjidong/commit/53fb6738652e8e1cd03c359202e6b07ed5c7ddc0)
+[변경 후 코드](https://github.com/whdauddbs/2015_catSikjidong/commit/c1cddf676a17476ab78195a521294722d9f3d2da)
+
 ### 주요 변경 사항
 1. java -> kotlin
 2. ViewBinding 사용
 3. 전반적인 변수명 및 리소스명 변경
 4. 자료구조 사용
 5. 수많은 분기 처리 정리
+6. LinearLayout -> ConstraintLayout으로 변경하여 여러 해상도 대응
