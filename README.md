@@ -14,7 +14,7 @@
 
 내부의 리소스는 바꾸지 않을 것이기 때문에, 현재 없는 가게들고 많고 가격도 매우 다르다.
 
-[이전코드](https://github.com/whdauddbs/2015_catSikjidong/commit/53fb6738652e8e1cd03c359202e6b07ed5c7ddc0)
+[이전코드](https://github.com/whdauddbs/2015_catSikjidong/commit/53fb6738652e8e1cd03c359202e6b07ed5c7ddc0) /  
 [변경 후 코드](https://github.com/whdauddbs/2015_catSikjidong/commit/c1cddf676a17476ab78195a521294722d9f3d2da)
 
 ### 주요 변경 사항
